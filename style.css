@@ -125,4 +125,7 @@ a:hover {
   body {
     margin-top: 100px;
   }
+  .weather-button {
+    margin-bottom: 10px;
+  }
 }
